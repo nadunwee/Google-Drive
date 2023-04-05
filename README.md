@@ -2,7 +2,9 @@
 ## Video Demo:  https://youtu.be/JLcxzZgMenw
 ## Description:
 The program is a Python script that can upload files or folders to Google Drive using the Google Drive API. It can be executed from the command line, with
-various arguments and options to control its behavior.
+various arguments and options to control its behavior. 
+
+#### -f in command line means upload only one file followed with file name you want to upload
 
 The first part of the script is importing various modules needed for the program to function properly. These modules include os, sys, and various Google Drive
 API modules such as google-auth, google-auth-oauthlib, google-auth-httplib2, and googleapiclient. The script then defines the SCOPES variable, which contains the
