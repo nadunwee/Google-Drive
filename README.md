@@ -42,7 +42,3 @@ Finally, the script checks if it is being executed as the main program using the
 function checks the command-line arguments and calls either the upload_file or upload_folder function depending on the argument provided. If there are any errors
 during the execution of the program, error messages are printed to the console to inform the user.
 
-Let me know if there are any further questions, comments, or concerns about this final.
-
-This is CS50P!
-
